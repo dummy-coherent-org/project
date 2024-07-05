@@ -12,4 +12,4 @@ on:
 
 jobs:
   main:
-    uses: coherent-oss/workflow-repo-prototype/.github/workflows/main.yml@main
+    uses: dummy-coherent-org/workflows/.github/workflows/main.yml@main
